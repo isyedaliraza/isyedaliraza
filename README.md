@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Syed Ali Raza Bokhari
-- 👀 I’m interested in Programming, Machine Learning, Artificial Intelligence
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on some open source project
-- 📫 You can reach me via my [Whatsapp](https://wa.me/923165902974/) or my e-mail isyedaliraza@gmail.com
+- 👋 Hi, I’m Syed Ali Raza Bokhari.
+- 👀 I’m interested in Programming, Machine Learning, Artificial Intelligence.
+- 🌱 I’m currently refreshing my knowledge of C++ and Data Structures.
+- 💞️ I’m looking to collaborate on some open source project.
+- 📫 You can reach me via my [Whatsapp](https://wa.me/923165902974/) or my e-mail isyedaliraza@gmail.com.
 
 <!---
 isyedaliraza/isyedaliraza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
